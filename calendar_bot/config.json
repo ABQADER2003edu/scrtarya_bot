@@ -1,0 +1,53 @@
+{
+  "categories": {
+    "شغل": {
+      "keywords": [
+        "شغل", "عمل", "اجتماع", "ميتنج", "بروجكت", "دوام", "مكتب", "عميل", "تسليم", "تاسك", "تقرير", "عرض تقديمي",
+        "work", "meeting", "project", "task", "client", "standup", "sync", "report", "call", "deadline"
+      ],
+      "color_id": "10"
+    },
+    "انترفيو": {
+      "keywords": [
+        "انترفيو", "مقابلة", "مقابلة عمل", "وظيفة", "تكنيكال", "اتش ار", "تقييم", "اختبار قبول",
+        "interview", "hr", "technical interview", "screening", "job", "assessment", "hire", "recruiter"
+      ],
+      "color_id": "11"
+    },
+    "مواعيد هامة": {
+      "keywords": [
+        "هام", "مهم", "ضروري", "عاجل", "موعد مهم", "ديدلاين", "تجديد", "سداد", "فاتورة", "طبيب", "دكتور", "سفر", "حجز", "طيران", "قطار",
+        "urgent", "important", "deadline", "priority", "appointment", "doctor", "flight", "renewal"
+      ],
+      "color_id": "6"
+    },
+    "مهام خارجية": {
+      "keywords": [
+        "مشوار", "خروجة", "مشاوير", "تسوق", "سوبرماركت", "ماركت", "شراء", "بنك", "صيدلية", "مصلحة حكومية", "توصيل", "سفارة", "مرور",
+        "errands", "shopping", "bank", "market", "pharmacy", "outdoor", "delivery"
+      ],
+      "color_id": "5"
+    },
+    "مهام خاصة": {
+      "keywords": [
+        "خاص", "شخصي", "بيت", "عائلة", "أهل", "منزل", "عائلي", "رياضة", "جيم", "صحة", "راحة", "صيانة",
+        "personal", "family", "home", "gym", "workout", "private", "health", "rest"
+      ],
+      "color_id": "1"
+    },
+    "تطوير ذات": {
+      "keywords": [
+        "تطوير ذات", "تطوير", "قراءة", "كتاب", "بودكاست", "عادات", "تأمل", "تخطيط", "تدوين", "مهارات", "إنتاجية",
+        "growth", "self development", "reading", "book", "podcast", "habits", "journaling", "mindset", "planning"
+      ],
+      "color_id": "9"
+    },
+    "كورس": {
+      "keywords": [
+        "كورس", "دورة", "تدريب", "ورشة", "ويبنار", "محاضرة تدريبية", "شهادة", "تطبيق عملي", "شرح", "تطبيق",
+        "course", "training", "workshop", "webinar", "tutorial", "udemy", "coursera", "certification", "session"
+      ],
+      "color_id": "2"
+    }
+  }
+}
